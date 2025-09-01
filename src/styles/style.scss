@@ -6,3 +6,10 @@
 @use "./base/typography";
 @use "./base/base";
 @use "./base/utils";
+
+@use "./components/logo";
+@use "./components/button";
+@use "./components/icon";
+@use "./components/burger-button";
+
+@use "./layout/header";
