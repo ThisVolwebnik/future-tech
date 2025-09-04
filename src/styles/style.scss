@@ -18,7 +18,12 @@
 @use "./components/metrics";
 @use "./components/resources-preview";
 @use "./components/team";
+@use "./components/tag";
+@use "./components/tile";
+@use "./components/list";
+@use "./components/card";
 // Layout
 @use "./layout/header";
 @use "./layout/footer";
 @use "./layout/hero";
+@use "./layout/section";
