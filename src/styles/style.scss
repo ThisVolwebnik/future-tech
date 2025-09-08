@@ -22,6 +22,10 @@
 @use "./components/tile";
 @use "./components/list";
 @use "./components/card";
+@use "./components/tabs";
+@use "./components/person-card";
+@use "./components/blog-actions";
+@use "./components/blog-card";
 // Layout
 @use "./layout/header";
 @use "./layout/footer";
